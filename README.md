@@ -8,7 +8,7 @@ A modern and user-friendly job portal that connects recruiters with talented can
 
 ### 👨‍💻 Candidate
 
-* Search and filter jobs بسهولة
+* Search and filter jobs 
 * Apply to jobs in one click
 * Track application status
 * Build and manage profile
