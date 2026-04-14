@@ -124,6 +124,6 @@ Create a branch, make changes, and submit a Pull Request.
 
 ## 📧 Contact
 
-Developed by **Ashwani Pandey**
+Developed by **Ashwani Pandey ,Devendra,Divya,Arpit,Atul**
 Feel free to connect and collaborate 🚀
 
